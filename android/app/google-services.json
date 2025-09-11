@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63499510476",
+    "project_id": "inspire-me-flutter",
+    "storage_bucket": "inspire-me-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63499510476:android:19f0492ea25c7302069869",
+        "android_client_info": {
+          "package_name": "com.example.inspireme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVD0YBa-wGlMPJJheXxOew6ho3XiXzmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
